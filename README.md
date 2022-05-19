@@ -62,7 +62,7 @@
         alt="pycharm" width="40" height="40" /> </a>
     <a href="https://www.wordpress.org/" target="_blank" rel="noreferrer"> <img
         src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg"
-        alt="wordpress" width="40" height="40" /> </a>
+        alt="wordpress" width="35" height="35" /> </a>
     </p>
 <hr>
 
@@ -74,4 +74,7 @@
 <a href="https://instagram.com/reza.chookian" target="blank"><img align="center"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
     alt="reza chookian" height="30" width="40" /></a>
+<a href="https://radiokhonya.com/" target="blank"><img align="center"
+    src="https://radiokhonya.com/wp-content/uploads/Logo-1-300x300.png"
+    alt="radiokhonya" height="40" width="40" /></a>
 </p>
