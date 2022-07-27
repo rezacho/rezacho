@@ -38,9 +38,9 @@
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img
         src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"
         alt="djangop" width="40" height="40" /> </a>
-    <a href="https://www.flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img
-        src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg"
-        alt="flask" width="40" height="40" /> </a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img
+        src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg"
+        alt="fastapi" width="40" height="40" /> </a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img
         src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"
         alt="postgresql" width="40" height="40" /> </a>
