@@ -38,12 +38,12 @@
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img
         src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"
         alt="sqlite" width="40" height="40" /> </a>
-    <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img
-        src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg"
-        alt="redis" width="40" height="40" /> </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
         src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"
         alt="mongodb" width="40" height="40" /> </a>
+    <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img
+        src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg"
+        alt="redis" width="40" height="40" /> </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
         src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
         alt="linux" width="40" height="40" /> </a>
