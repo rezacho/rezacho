@@ -7,7 +7,6 @@
         <li><h4>👨🏻‍💻 I'm Reza</h4></li>
         <li><h4>📍 Live in Tehran</h4></li>
         <li><h4>🐍 Python back-end developer</h4></li>
-        <li><h4>😂 Fun fact: Microsoft loves Linux</h4></li>
     </ul>    
 </p>
 
