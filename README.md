@@ -13,10 +13,6 @@
 ![](https://komarev.com/ghpvc/?username=rezacho)
 <hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezacho&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezacho&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<hr>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
