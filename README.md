@@ -21,40 +21,37 @@
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img
         src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"
         alt="djangop" width="40" height="40" /> </a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img
-        src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg"
-        alt="fastapi" width="40" height="40" /> </a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img
         src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"
         alt="postgresql" width="40" height="40" /> </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
         src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"
         alt="mysql" width="40" height="40" /> </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img
-        src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"
-        alt="sqlite" width="40" height="40" /> </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
-        src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"
-        alt="mongodb" width="40" height="40" /> </a>
     <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img
         src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg"
         alt="redis" width="40" height="40" /> </a>
+    <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img
+        src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg"
+        alt="rabbitmq" width="40" height="40" /> </a>
+    <a href="https://pytest.org/" target="_blank" rel="noreferrer"> <img
+        src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg"
+        alt="pytest" width="40" height="40" /> </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
         src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
         alt="linux" width="40" height="40" /> </a>
-    <a href="https://www.redhat.com/" target="_blank" rel="noreferrer"> <img
-        src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg"
-        alt="redhat" width="40" height="40" /> </a>
+    <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img
+        src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg"
+        alt="arch" width="40" height="40" /> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img
+        src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"
+        alt="bash" width="40" height="40" /> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
         src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
         alt="git" width="40" height="40" /> </a>
     <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img
-        src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"
+        src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"
         alt="pycharm" width="40" height="40" /> </a>
-    <a href="https://www.wordpress.org/" target="_blank" rel="noreferrer"> <img
-        src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg"
-        alt="wordpress" width="40" height="40" /> </a>
-    </p>
+</p>
 <hr>
 
 <h3 align="left">Connect with me:</h3>
